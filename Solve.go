@@ -29,5 +29,4 @@ func solve(s string) string {
 		}
 	}
 	return buf.String()
-
 }
